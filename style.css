@@ -1,0 +1,7 @@
+#phoneNumber, #question, #code {
+    display: inline;
+}
+
+canvas {
+    display: block;
+}
